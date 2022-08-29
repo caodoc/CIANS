@@ -9,5 +9,6 @@ xep_hang_1.cpp </br>
 
 # Can run >= 90% tests
 
-phong_bi.cpp</br>
-boc_bai.cpp</br>
+phong_bi.cpp </br>
+boc_bai.cpp </br>
+xep_hang_2.cpp </br>
