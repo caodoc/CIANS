@@ -10,4 +10,3 @@ tha_dieu.cpp </br>
 
 phong_bi.cpp </br>
 boc_bai.cpp </br>
-xep_hang_2.cpp </br>
