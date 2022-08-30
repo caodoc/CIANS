@@ -5,7 +5,6 @@ doi_cho.cpp </br>
 hsg_thcs_2018_marathon.cpp </br>
 t_prime.cpp </br>
 tha_dieu.cpp </br>
-xep_hang_1.cpp </br>
 
 # Can run >= 90% tests
 
