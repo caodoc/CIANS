@@ -1,7 +1,6 @@
 # C++ In A Nut Shell
 
 [Confirmed](https://github.com/caodoc/CIANS/tree/main/Confirmed): Can run full tests, return max points. </br>
-[Unconfirmed](https://github.com/caodoc/CIANS/tree/main/Unconfirmed): Can't run full tests, return some errors.
 
 
 # Download
@@ -17,16 +16,11 @@ git clone https://github.com/caodoc/CIANS.git
 ```
 </br>
 
-After that check: </br>
+After it finished, check: </br>
 ```
 %userprofile%
 ```
 </br>
-
-
-# Typical questions
-
-<strong> Gonna update soon if there are any important questions...</strong>
 
 
 # Contact
