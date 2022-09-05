@@ -33,7 +33,6 @@ int main()
                 if (a[t2] == n) s += a[t2] * b[t2]; else s += n * b[t2];
                 c = 1;
             }
-            cout << a[t2] << " " << b[t2] << " " << s << endl;
             b[t2] = 0;
         }
     }
