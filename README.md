@@ -4,7 +4,7 @@
 <i><u>Question</u>: Then why there is a python folder? </i> </br>
 <i><u>Answer</u>: Idk lol, i will learn python in my 11th grade so ya know.</i> </br>
 [<strong>C++ Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Cpp): Written in C++. </br>
-[<strong>Python</strong>](https://github.com/caodoc/CIANS/tree/main/.Python): Written in Python. </br>
+[<strong>Python Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Python): Written in Python. </br>
 [<strong>.docs</strong>](https://github.com/caodoc/CIANS/tree/main/docs): Documents.
 
 
