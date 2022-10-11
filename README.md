@@ -1,8 +1,6 @@
 # Introduction
 
 <strong> CIANS </strong> stands for <strong> C++ in a nutshell </strong> </br>
-<i>Question</i>: Then why there is a python folder? </br>
-<i>Answer</i>: Why not.</br>
 [<strong>C++ Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Cpp): Written in C++. </br>
 [<strong>Python Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Python): Written in Python. </br>
 [<strong>.docs</strong>](https://github.com/caodoc/CIANS/tree/main/docs): Documents.
