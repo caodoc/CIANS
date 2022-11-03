@@ -2,39 +2,29 @@
 
 using namespace std;
 
-const int N = 1e7 + 1;
-long long n,m,a[N],b[N],i,j,s,t1,t2,c;
+const int N = 1e8 + 7;
+
+int n,k,t;
+long long res;
+
+pair<int, int> a[N];
+
+bool cmp(const pair<int, int>&i, const pair<int, int>&j) 
+{ 
+    return i.second > j.second; 
+} 
 
 int main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(0);
-    cout.tie(0);
-    cin >> n >> m;
-    for (i = 1;i <= m;i++) cin >> a[i] >> b[i];
-    while (c == 0) 
+    cin >> k >> n;
+    for (int i = 1;i <= n;i++) cin >> a[i].first >> a[i].second;
+    sort(a + 1,a + 1 + n,cmp);
+    //for (int i = 1;i <= n;i++) cout << a[i].first << " " << a[i].second << endl;
+    for (int i = 1;i <= n && k > 0;i++)
     {
-        t1 = t2 = 0;
-        for (i = 1;i <= m;i++) if (t1 < b[i]) 
-        {
-            t1 = b[i];
-            t2 = i;
-        }
-        if (t2 == 0) c = 1; 
-        else
-        {
-            if (n > a[t2])
-            {
-                n -= a[t2];
-                s += a[t2] * b[t2];
-            }
-            else 
-            {
-                if (a[t2] == n) s += a[t2] * b[t2]; else s += n * b[t2];
-                c = 1;
-            }
-            b[t2] = 0;
-        }
+        t = min(a[i].first, k);
+        k -= t;
+        res += t * a[i].second;
     }
-    cout << s;
+    cout << res;
 }
