@@ -1,3 +1,5 @@
 n = int(input())
 
-print(n * (n - 1) / 2)
+s = n * (n + 1) / 2
+
+print(int(s))

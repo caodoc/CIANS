@@ -1,3 +1,5 @@
 n = int(input())
 
-print ((n // 7) * 5 + n % 7)
+t = (n // 7) * 5 + n % 7
+
+print(t)
