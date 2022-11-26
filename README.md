@@ -5,7 +5,6 @@
         <a href="https://github.com/caodoc/CIANS/tree/main/.Python"> <strong> Python Folder </strong> </a> - Written in Python. </br>
         <a href="https://github.com/caodoc/CIANS/tree/main/docs"> <strong> Docs Folder </strong> </a> - My documents collection. </br>
     </p>
-    <hr>
     <h2> <strong> Contact </strong> </h2>
     <p align="left">
         <a href="https://facebook.com/caodoc"> <strong> Facebook: @caodoc </strong> </a> </br>
