@@ -1,14 +1,22 @@
-# Introduction
+<div align="center"> 
+    <h2> <strong> Introduction </strong> </h2>
+</div>
 
-[<strong>C++ Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Cpp) - Written in C++. </br>
-[<strong>Python Folder</strong>](https://github.com/caodoc/CIANS/tree/main/.Python) - Written in Python. </br>
-[<strong>Docs Folder</strong>](https://github.com/caodoc/CIANS/tree/main/docs) - My documents collection. </br>
-</br>
-</br>
+<p>
+    <a href="https://github.com/caodoc/CIANS/tree/main/.Cpp"> <strong> C++ Folder </strong> </a> - Written in C++. </br>
+    <a href="https://github.com/caodoc/CIANS/tree/main/.Python"> <strong> Python Folder </strong> </a> - Written in Python. </br>
+    <a href="https://github.com/caodoc/CIANS/tree/main/docs"> <strong> Docs Folder </strong> </a> - My documents collection. </br>
+</p>
 
-# Contact
+<hr>
 
-<strong> [Facebook](https://www.facebook.com/caodoc/) </strong> </br>
-<strong> Discord </strong>: Ducca#3106 </br> 
+<div align="center"> 
+    <h2> <strong> Contact </strong> </h2>
+</div>
 
-![](./img/logo.gif)
+<p>
+    <a href="https://facebook.com/caodoc"> <strong> Facebook: @caodoc </strong> </a> </br>
+    <strong> Discord: </strong> Ducca#3016 </br>
+</p>
+
+<img src="./img/logo.gif" align="center">
