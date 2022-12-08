@@ -8,16 +8,5 @@
 </div>
 
 <hr>
-
-<div align="center">
-    <h3> <strong> Contact </strong> </h3>
-</div>
-
-<p algin="left">
-    <a href="https://facebook.com/caodoc"> <strong> Facebook: @caodoc </strong> </a> </br>
-    <strong> Discord: </strong> Ducca#3016 </br>
-</p>
-
-<hr>
     
 <img align="center" src="./img/logo.gif">
