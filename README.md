@@ -6,7 +6,7 @@
 
 <hr>
 
-<img align="right" src="\.imgs\cpp_logo.png">
+<img align="right" src="https://github.com/caodoc/CIANS/blob/main/imgs/cpp_logo.png">
 
 <p align="left">
     <strong> CIANS </strong> stands for C++ In A Nutshell</br>
