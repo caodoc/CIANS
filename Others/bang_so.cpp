@@ -2,19 +2,20 @@
 
 using namespace std;
 
-long long n,i,x,dem;
-
-int calc(int a)
-{
-    int tmp = 0;
-    for (int j = 1;j <= n;j++) if (i * j == x) tmp++;
-    return tmp;
-}
+long long n,x,res,i;
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
+    cout.tie(0);
     cin >> n >> x;
-    n = min(n, x);
-    for (i = 1;i <= n;i++) if (x % i == 0) dem += calc(i);
-    cout << dem;
+    for (i = 1;i <= sqrt(x);i++) 
+        if (x % i == 0 && i <= n && x / i <= n) 
+        {
+            res++;
+            if (x / i != i) res++;
+            //cout << i << " " << x / i << endl;
+        }
+    cout << res; 
 }
