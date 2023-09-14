@@ -23,11 +23,9 @@ int main()
             for (int j = i + 1;j <= n;++j)
                 if (binary_search(ar + 1, ar + 1 + n, ar[i] + ar[j]) == 1) cnt++;
         cout << cnt * 2;
+        return 0;
     }
-    else
-    {
-        for (int i = 1;i <= n;++i) cin >> ar[i];
-        for (int i = 3;i <= n;++i) cnt = cnt + (i - 1) / 2;
-        cout << cnt * 2;
-    }
+    for (int i = 1;i <= n;++i) cin >> ar[i];
+    for (int i = 3;i <= n;++i) cnt = cnt + (i - 1) / 2;
+    cout << cnt * 2;
 }
