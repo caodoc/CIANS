@@ -2,22 +2,25 @@
 
 using namespace std;
 
-int n,q;
-map<int, int> m;
+int n,t,x;
+map<int, int> mp;
 
 int main()
 {
-    cin >> n;
-    int x = 0;
-    for (int i = 1;i <= n;i++) 
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    //freopen("SOMAYMAN.INP","r",stdin);
+    //freopen("SOMAYMAN.OUT","w",stdout);
+    cin >> n >> t;
+    for (int i = 1;i <= n;++i)
     {
         cin >> x;
-        m[x]++;
+        mp[x] += 1;
     }
-    cin >> q;
-    for (int i = 1;i <= q;i++)
+    for (int i = 1;i <= t;++i)
     {
         cin >> x;
-        cout << m[x] << endl;
+        cout << mp[x] << "\n";
     }
 }
