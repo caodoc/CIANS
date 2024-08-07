@@ -2,4 +2,9 @@
 
 Stands for C++ In A Nutshell, a place to keep my code of solved problems on Codeforces, LeetCode, VNOJ, etc.
 
-![](https://img.shields.io/github/last-commit/caodoc/CIANS?style="flat-square"&color="94a4ff")
+### Categories
++ [Algorithms](/Algorithms/) - Algorithms.
++ [Codeforces](/Codeforces/) - [codeforces.com](https://codeforces.com/)
++ [HackerRank](/HackerRank/) - [hackerrank.com](https://www.hackerrank.com/)
++ [LeetCode](/LeetCode/) - [leetcode.com](https://leetcode.com/)
++ [Others](/Others/) - [VNOJ](https://oj.vnoi.info/) and other Vietnamese Online Judges.
