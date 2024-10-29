@@ -6,5 +6,4 @@ Stands for C++ In A Nutshell, a place to keep my code of solved problems on Code
 + [Algorithms](/Algorithms/) - Algorithms.
 + [Codeforces](/Codeforces/) - [codeforces.com](https://codeforces.com/)
 + [HackerRank](/HackerRank/) - [hackerrank.com](https://www.hackerrank.com/)
-+ [LeetCode](/LeetCode/) - [leetcode.com](https://leetcode.com/)
 + [Others](/Others/) - [VNOJ](https://oj.vnoi.info/) and other Vietnamese Online Judges.
